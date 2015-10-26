@@ -32,7 +32,7 @@
         </entry>
       </file>
       <file leaf-file-name="Rengar.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Images/Rengar.jpg">
+        <entry file="file://$PROJECT_DIR$/images/Rengar.jpg">
           <provider selected="true" editor-type-id="images">
             <state />
           </provider>
@@ -112,7 +112,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Images" />
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -320,7 +320,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Images/Rengar.jpg">
+    <entry file="file://$PROJECT_DIR$/images/Rengar.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
