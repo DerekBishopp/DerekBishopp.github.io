@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75b0e8cb-3a68-40e4-9f2b-f389caaad9a9" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheet.css" afterPath="$PROJECT_DIR$/stylesheet.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="DerekBishopp.github.io.iws" />
@@ -420,7 +419,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449426964360</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Put in background color">
+      <created>1449428433538</created>
+      <option name="number" value="00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1449428433538</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -468,7 +473,8 @@
     <MESSAGE value="Nav bar" />
     <MESSAGE value="persistent nav bar&#10;" />
     <MESSAGE value="Trying to fix images" />
-    <option name="LAST_COMMIT_MESSAGE" value="Trying to fix images" />
+    <MESSAGE value="Put in background color" />
+    <option name="LAST_COMMIT_MESSAGE" value="Put in background color" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
