@@ -29,3 +29,7 @@ li a.active {
 body {
     background-color: linen;
 }
+p {
+   color: #33cc33;
+   font-family: Times New Roman;
+}
